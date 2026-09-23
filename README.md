@@ -46,7 +46,7 @@ Computer Science student and software engineering intern. I enjoy building softw
 - Built two enemy movement modes: random wandering for Easy mode and targeted chase movement for Hard mode.
 - Integrated background music using JavaFX Media and screen transitions between menus and gameplay.
 
-#### [Chapel Hill Arrest Data Map Visualizer](https://github.com/Arrest-Data-Visualizer)
+#### [Chapel Hill Arrest Data Map Visualizer](https://github.com/rahulkum19/Arrest-Data-Visualizer)
 *Python, Pandas, Folium (Leaflet.js)*
 - Cleaned and analyzed municipal police arrest records across age, demographics, and locations.
 - Fixed a dataset error where latitude and longitude coordinates were swapped, and filtered recent records (~4,800 arrests) to keep map interactions fast.
