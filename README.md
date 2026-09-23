@@ -19,7 +19,7 @@ Computer Science student and software engineering intern. I enjoy building softw
 
 ### Featured Projects
 
-#### [LayoverGames] *(ULIMI — In Active Development)*
+#### LayoverGames *(ULIMI — In Active Development)*
 *JavaScript, PostgreSQL, Service Workers*
 - Designing an offline browser mini-game platform for air travelers without reliable internet access.
 - Prototyping single-file packaging and service worker caching to allow games to run completely offline.
