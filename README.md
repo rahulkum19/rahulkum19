@@ -49,5 +49,5 @@ Computer Science student and software engineering intern. I focus on object-orie
 ### Contact & Links
 
 - **GitHub:** [github.com/rahulkum19](https://github.com/rahulkum19)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Email:** your-email@example.com
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/rahul-kumaresan-57a903339/)
+- **Email:** rahulkumaresan06@gmail.com
