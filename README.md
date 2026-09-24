@@ -1,6 +1,6 @@
 # Rahul Kumaresan
 
-Computer Science student and software engineering intern. I enjoy building software with clean object-oriented design, working with patterns like MVC, and developing applications in Java, Python, and C.
+Computer Science student and software engineering intern. I enjoy building software with clean object-oriented design, working with patterns like MVC, and developing applications in Java and Python.
 
 - **Current Role:** Software Engineering Intern at ULIMI
 - **Interests:** Software Architecture, Object-Oriented Design, Game Mechanics, and Interactive Application Design
@@ -10,10 +10,10 @@ Computer Science student and software engineering intern. I enjoy building softw
 
 ### Technical Skills
 
-- **Languages:** Java, Python, C, JavaScript, SQL (PostgreSQL), Bash/Unix
-- **Frameworks & Libraries:** JavaFX, OkHttp, JUnit 5, Apache Maven, Pandas, Folium
-- **Core Concepts:** Object-Oriented Programming (OOP), MVC & Observer Patterns, Asynchronous Programming, In-Memory Caching
-- **Developer Tools:** Git, GitHub, IntelliJ IDEA, VS Code, Linux/macOS, Arduino, CAD
+- **Languages:** Java, Python, C, Bash/Unix
+- **Frameworks & Libraries:** JavaFX, OkHttp, Apache Maven, Pandas, Folium
+- **Core Concepts:** Object-Oriented Programming (OOP), MVC & Observer Patterns, REST APIs, Asynchronous Programming
+- **Developer Tools:** Git, GitHub, IntelliJ IDEA, VS Code, Agentic AI Workflows, Linux/macOS, Arduino, CAD
 
 ---
 
