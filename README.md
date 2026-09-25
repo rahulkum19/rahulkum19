@@ -10,10 +10,10 @@ I’m a Computer Science student and software engineering intern who enjoys buil
 
 ### Technical Skills
 
-- **Languages:** Java, Python, C, Bash/Unix
+- **Languages:** Java, Python, C
 - **Frameworks & Libraries:** JavaFX, OkHttp, Apache Maven, Pandas, Folium
 - **Core Concepts:** Object-Oriented Programming (OOP), MVC & Observer Patterns, REST APIs, Asynchronous Programming
-- **Developer Tools:** Git, GitHub, IntelliJ IDEA, VS Code, Agentic AI Workflows, Linux/macOS, Arduino, CAD
+- **Developer Tools:** Git, GitHub, IntelliJ IDEA, VS Code, Agentic AI Workflows, Unix CLI/macOS, Arduino, CAD
 
 ---
 
