@@ -26,7 +26,7 @@ I’m a Computer Science student and software engineering intern who enjoys buil
 - Planning user account and game progress data persistence using PostgreSQL.
 
 #### [Enhanced Wordle](https://github.com/rahulkum19/enhanced-wordle)
-*Java 23, JavaFX 21, Maven, OkHttp 4, Datamuse API, Agentic AI*
+*Java 23, JavaFX 21, Maven, OkHttp, Datamuse API, Agentic AI*
 - Extended my original Wordle application using Agentic AI as a development tool to plan and implement new features while maintaining the existing MVC architecture.
 - Added a persistent 5-star rating and points system with cross-session saves via the Java Preferences API.
 - Implemented a 500-word batch pre-fetch and an in-memory cache (`ConcurrentHashMap`) to avoid repeated dictionary network requests.
